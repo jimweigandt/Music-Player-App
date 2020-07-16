@@ -1,24 +1,5 @@
-# test_project
+# Music Player App
 
-## Project setup
 ```
-npm install
+A music player app that has minimal playback features to listen to your favorite playlists full of your favorite songs. Custom styling to enhance user experience.
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
